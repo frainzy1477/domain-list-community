@@ -102,6 +102,8 @@ full:www.google.com
 * Full domain begins with `full:`, followed by a complete and valid domain name.
 * Domains (including `domain`, `keyword`, `regexp` and `full`) may have one or more attributes. Each attribute begins with `@` and followed by the name of the attribute.
 
+> **Note:** Adding new `regexp` and `keyword` rules is discouraged because it is easy to use them incorrectly, and proxy software cannot efficiently match these types of rules.
+
 ## How it works
 
 The entire `data` directory will be built into an external `geosite` file for Project V. Each file in the directory represents a section in the generated file.
@@ -131,4 +133,5 @@ Attribute is useful for sub-group of domains, especially for filtering purpose. 
 * Fork this repo, make modifications to your own repo, file a PR.
 * Please begin with small size PRs, say modification in a single file.
 * A PR must be reviewed and approved by another member.
+* A script will verify your pull request to test whether your PR is correct or not every time you update the PR. Only the PR which passes the test will be merged. Please go to the Action label to get detailed information if you didn't pass it. We also provide the file which has been generated to make you test.
 * After a few successful PRs, you may apply for manager access to this repository.

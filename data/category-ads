@@ -3,6 +3,7 @@
 include:acfun-ads
 include:adcolony-ads
 include:adjust-ads
+include:adobe-ads
 include:alibaba-ads
 include:amazon-ads
 include:apple-ads
@@ -10,8 +11,10 @@ include:applovin-ads
 include:atom-data-ads
 include:baidu-ads
 include:bytedance-ads
+include:category-ads-ir
 include:clearbitjs-ads
 include:dmm-ads
+include:duolingo-ads
 include:emogi-ads
 include:flurry-ads
 include:google-ads
@@ -23,6 +26,7 @@ include:inner-active-ads
 include:iqiyi-ads
 include:jd-ads
 include:kuaishou-ads
+include:kugou-ads
 include:leanplum-ads
 include:letv-ads
 include:mixpanel-ads
@@ -33,8 +37,10 @@ include:newrelic-ads
 include:ogury-ads
 include:onesignal-ads
 include:ookla-speedtest-ads
+include:openx-ads
 include:pocoiq-ads
 include:pubmatic-ads
+include:qihoo360-ads
 include:segment-ads
 include:sensorsdata-ads
 include:sina-ads
@@ -43,13 +49,15 @@ include:spotify-ads
 include:supersonic-ads
 include:tagtic-ads
 include:tappx-ads
+include:television-ads
 include:tencent-ads
 include:uberads-ads
 include:umeng-ads
 include:unity-ads
 include:wteam-ads
 include:xhamster-ads
-include:xiaomitv-ads
+include:xiaomi-ads
+include:ximalaya-ads
 include:yahoo-ads
 include:youku-ads
 include:zynga-ads
@@ -58,14 +66,14 @@ include:zynga-ads
 51y5.net
 a.adtng.com
 aaxads.com
-addthisedge.com
-adtrue.com
 ad-srv.net
 ad.api.moji.com
 ad.wang502.com
 adbutter.net
+addthisedge.com
 ads.trafficjunky.net
 adtechus.com
+adtrue.com
 adxprtz.com
 cdn.advertserve.com
 cdn.banclip.com
@@ -77,14 +85,22 @@ eroadvertising.com
 exoclick.com
 exosrv.com
 go2.global
+gozendata.com
+gzads.com
+gz-data.com
 img-bss.csdn.net
 imglnkc.com
 imglnkd.com
+innovid.com
 ja2.gamersky.com
+jads.co
 jl3.yjaxa.top
 juicyads.com
 kepler-37b.com
 lqc006.com
+moat.com
+moatads.com
+mobwithad.com
 realsrv.com
 s4yxaqyq95.com
 shhs-ydd8x2.yjrmss.cn
@@ -92,16 +108,36 @@ static.javhd.com
 tm-banners.gamingadult.com
 trafficfactory.biz
 tsyndicate.com
+wwads.cn
 
 # 36Kr
 adx.36kr.com
+
+# 12306
+ad.12306.cn
+
+# AdHub
+hubcloud.com.cn
+
+# AdScope
+beizi.biz
 
 # ali213
 click.ali213.net
 pbmp.ali213.net
 
 # Caixin
-regexp:^pinggai\d\.caixin\.com$
+# regexp:^pinggai\d\.caixin\.com$
+full:pinggai0.caixin.com
+full:pinggai1.caixin.com
+full:pinggai2.caixin.com
+full:pinggai3.caixin.com
+full:pinggai4.caixin.com
+full:pinggai5.caixin.com
+full:pinggai6.caixin.com
+full:pinggai7.caixin.com
+full:pinggai8.caixin.com
+full:pinggai9.caixin.com
 
 # Chinaso
 adq.chinaso.com
@@ -118,3 +154,18 @@ ad.unimhk.com
 
 # UCloud
 das-rpt-log.ucloud.cn
+
+# 数字精准广告
+telecome.cn
+unioncom.cc
+
+# 亿帆广告
+yfanads.cn
+yfanads.com
+
+# 数字联盟(device ad id)
+shuzilm.cn
+
+# 卓信id
+zxid-api.mobileservice.cn
+zxid-m.mobileservice.cn
