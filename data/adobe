@@ -1,3 +1,5 @@
+include:adobe-activation
+include:adobe-ads
 include:typekit
 
 10xfotolia.com
@@ -134,3 +136,6 @@ toutapp.com
 compresspdf.new
 pdf.new
 sign.new
+
+# Adobe Dynamic Media Delivery
+scene7.com

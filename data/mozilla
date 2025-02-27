@@ -2,6 +2,7 @@ include:firefox
 include:mdn
 include:rust
 
+mozgcp.net
 mozilla.com
 mozilla.community
 mozilla.net
@@ -21,3 +22,9 @@ seamonkey-project.org
 
 # Thunderbird
 thunderbird.net
+
+# Mozilla Location Service
+location.services.mozilla.com
+
+# Mozilla Push Service
+push.services.mozilla.com

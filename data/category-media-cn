@@ -1,10 +1,8 @@
 include:36kr
-include:caixin
 include:cctv
 include:chinanews
 include:dgtle
 include:geekpark
-include:hupu
 include:ifanr
 include:jiemian
 include:landian
@@ -76,3 +74,57 @@ ths123.com
 dzh.com.cn
 gw.com.cn
 yundzh.com
+
+# 财新网
+caixin.com
+
+# Xinhua News Agency
+news.cn
+xinhuanet.com
+
+# 人民网
+people.cn
+people.com.cn
+
+# 环球网
+huanqiu.com
+huanqiucdn.cn
+
+# 光明网
+gmw.com
+
+# 澎湃新闻
+thepaper.cn
+
+# 封面新闻
+thecover.cn
+
+# 超能网
+expreview.com
+
+# 虎嗅
+huxiu.com
+huxiucdn.com
+
+# TechWeb
+techweb.com.cn
+
+# PConline - 太平洋科技
+3conline.com
+pconline.com.cn
+
+# ZEALER
+zealer.com
+
+# 中关村在线
+zol-img.com.cn
+zol.com.cn
+
+# 锋潮科技
+anzhuo.cn
+
+# 中国IDC圈
+idcquan.com
+
+# 站长网
+admin5.com
